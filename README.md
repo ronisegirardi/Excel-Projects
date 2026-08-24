@@ -59,6 +59,8 @@ PivotCharts were then used to visualise:
 
 These visualisations supported clearer communication of trends and insights.
 
+<img width="676" height="121" alt="image" src="https://github.com/user-attachments/assets/efa81f27-944a-4f2d-ba1e-90b35c11e683" />
+
 ---
 
 ##  **Retail & Sales Insights**
