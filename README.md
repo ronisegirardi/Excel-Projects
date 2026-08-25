@@ -42,6 +42,8 @@ I applied a wide range of Excel formulas used frequently in data technician role
 
 These formulas were used to analyse commissions, student performance, product sales, and customer behaviour.
 
+<img width="395" height="211" alt="image" src="https://github.com/user-attachments/assets/48e0c892-bc29-40ac-aacc-d5330317b8ce" />
+
 ---
 
 ##  **PivotTables & PivotCharts**
@@ -50,7 +52,9 @@ I created multiple PivotTables to summarise and explore data, including:
 - Retail sales by age group and commission  
 - Bike sales by country, gender, and age group  
 - Product sales by county  
-- Revenue and profit trends over multiple years  
+- Revenue and profit trends over multiple years
+
+<img width="338" height="60.5" alt="image" src="https://github.com/user-attachments/assets/efa81f27-944a-4f2d-ba1e-90b35c11e683" />
 
 PivotCharts were then used to visualise:
 - Annual revenue and profit  
@@ -59,7 +63,7 @@ PivotCharts were then used to visualise:
 
 These visualisations supported clearer communication of trends and insights.
 
-<img width="676" height="121" alt="image" src="https://github.com/user-attachments/assets/efa81f27-944a-4f2d-ba1e-90b35c11e683" />
+<img width="378" height="171" alt="image" src="https://github.com/user-attachments/assets/07849f34-7a58-4d43-ae76-85f3d813485a" />
 
 ---
 
