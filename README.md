@@ -1,6 +1,6 @@
 
 # Excel Data Analysis Project  
-### *Data Technician Bootcamp – Week 1 Portfolio Piece*
+### *Data Technician Bootcamp 
 
 This project showcases the Excel-based data analysis completed during Week 1 of the **Data Technician Bootcamp**, demonstrating core technical skills used in real-world data roles. The work covers data cleaning, formula-based analysis, PivotTables, SWITCH logic, and visualisation using retail, sales, and performance datasets.
 
@@ -31,7 +31,7 @@ This project reflects my ability to:
 ---
 
 ##  **Formula Proficiency**
-I applied a wide range of Excel formulas used frequently in data technician roles:
+I applied a wide range of Excel formulas used frequently in data analytics roles:
 
 - **SUM / SUMIF** – calculating totals and conditional totals  
 - **AVERAGE / AVERAGEIF** – computing overall and conditional averages  
