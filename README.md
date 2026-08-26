@@ -61,9 +61,9 @@ PivotCharts were then used to visualise:
 - Product revenue by country  
 - Revenue by age group  
 
-These visualisations supported clearer communication of trends and insights.
-
 <img width="378" height="171" alt="image" src="https://github.com/user-attachments/assets/07849f34-7a58-4d43-ae76-85f3d813485a" />
+
+These visualisations supported clearer communication of trends and insights.
 
 ---
 
